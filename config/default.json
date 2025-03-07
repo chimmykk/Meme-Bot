@@ -1,0 +1,51 @@
+{
+  "meme_bot": {
+    "image_server": {
+      "base_url": "https://d3cvnrw4bpahxk.cloudfront.net"
+    },
+    "discord": {
+      "guild": {
+        "1347703187058200616": {
+          "name": "Doge Pound Bot Test",
+          "image_server": {
+            "base_folder_url": "thedogepound"
+          },
+          "response": {
+            "default": {
+              "content": "@@AT_USER@@ your doggy has been meme'd!",
+              "title": "DOGGY #@@TOKEN_ID@@",
+              "description": "I've got 99 problems but **The Doge Pound** ain't one :rofl:",
+              "footer": "@@CATEGORY_MEME_DESCRIPTION@@"
+            },
+            "santa": {
+              "description": "Santa's got a new helper this year... and it's a good boy!"
+            },
+            "newyear": {
+              "description": "Feeling paw-sitively excited for 2024! AWWOOOOOO :tada::partying_face:"
+            }
+          }
+        },
+        "1347702992421519483": {
+          "name": "Doge Pound Bot Test 2",
+          "image_server": {
+            "base_folder_url": "thedogepound"
+          },
+          "response": {
+            "default": {
+              "content": "@@AT_USER@@ your doggy has been meme'd!",
+              "title": "DOGGY #@@TOKEN_ID@@",
+              "description": "I've got 99 problems but **The Doge Pound** ain't one :rofl:",
+              "footer": "@@CATEGORY_MEME_DESCRIPTION@@"
+            },
+            "santa": {
+              "description": "Santa's got a new helper this year... and it's a good boy!"
+            },
+            "newyear": {
+              "description": "Feeling paw-sitively excited for 2024! AWWOOOOOO :tada::partying_face:"
+            }
+          }
+        }
+      }
+    }
+  }
+}

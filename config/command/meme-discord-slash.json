@@ -1,0 +1,251 @@
+{
+  "name": "meme",
+  "type": 1,
+  "description": "Add a meme to your Doge.",
+  "options": [
+    {
+      "name": "wardrobe",
+      "description": "Wardrobe Memes",
+      "type": 1,
+      "options": [
+        {
+          "name": "dogeid",
+          "description": "The id of your Doge.",
+          "type": 4,
+          "required": true
+        },
+        {
+          "name": "meme",
+          "description": "The meme you want to add to your Doge.",
+          "type": 3,
+          "required": true,
+          "choices": [
+            {
+              "name": "Bonk",
+              "value": "bonk"
+            },
+            {
+              "name": "Breast Cancer Dress",
+              "value": "breastcancerdress"
+            },
+            {
+              "name": "Breast Cancer Suit",
+              "value": "breastcancersuit"
+            },
+            {
+              "name": "Chonks",
+              "value": "chonks"
+            },
+            {
+              "name": "Chonks Shirtless",
+              "value": "chonksshirtless"
+            },
+            {
+              "name": "Cone of Shame",
+              "value": "coneofshame"
+            },
+            {
+              "name": "McWoof's",
+              "value": "mcwoofs"
+            },
+            {
+              "name": "McWoof's Shirt",
+              "value": "mcwoofsshirt"
+            },
+            {
+              "name": "Party Hat",
+              "value": "partyhat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "expression",
+      "description": "Expression Memes",
+      "type": 1,
+      "options": [
+        {
+          "name": "dogeid",
+          "description": "The id of your Doge.",
+          "type": 4,
+          "required": true
+        },
+        {
+          "name": "meme",
+          "description": "The meme you want to add to your Doge.",
+          "type": 3,
+          "required": true,
+          "choices": [
+            {
+              "name": "Angry",
+              "value": "angry"
+            },
+            {
+              "name": "Blush",
+              "value": "blush"
+            },
+            {
+              "name": "Crying",
+              "value": "crying"
+            },
+            {
+              "name": "Cute - UwU",
+              "value": "cute"
+            },
+            {
+              "name": "Flipping",
+              "value": "flipping"
+            },
+            {
+              "name": "Pie",
+              "value": "pie"
+            },
+            {
+              "name": "Strong",
+              "value": "strong"
+            },
+            {
+              "name": "Thumbs Up",
+              "value": "thumbsup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "message",
+      "description": "Message Memes",
+      "type": 1,
+      "options": [
+        {
+          "name": "dogeid",
+          "description": "The id of your Doge.",
+          "type": 4,
+          "required": true
+        },
+        {
+          "name": "meme",
+          "description": "The meme you want to add to your Doge.",
+          "type": 3,
+          "required": true,
+          "choices": [
+            {
+              "name": "Adopt a Doge",
+              "value": "signadoptadoge"
+            },
+            {
+              "name": "Awoooo",
+              "value": "signawoooo"
+            },
+            {
+              "name": "GM",
+              "value": "gm"
+            },
+            {
+              "name": "GN",
+              "value": "gn"
+            },
+            {
+              "name": "I don't bite",
+              "value": "signidontbite"
+            },
+            {
+              "name": "Join Us",
+              "value": "signjoinus"
+            },
+            {
+              "name": "Mostly Harmless",
+              "value": "signmostlyharmless"
+            },
+            {
+              "name": "NFA",
+              "value": "signnfa"
+            },
+            {
+              "name": "Verified",
+              "value": "signverified"
+            },
+            {
+              "name": "Verified 69",
+              "value": "signverified69"
+            },
+            {
+              "name": "YUMP",
+              "value": "signyump"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "seasonal",
+      "description": "Seasonal Memes",
+      "type": 1,
+      "options": [
+        {
+          "name": "dogeid",
+          "description": "The id of your Doge.",
+          "type": 4,
+          "required": true
+        },
+        {
+          "name": "meme",
+          "description": "The meme you want to add to your Doge.",
+          "type": 3,
+          "required": true,
+          "choices": [
+            {
+              "name": "2 Year Anniversary",
+              "value": "anniversarytwoyear"
+            },
+            {
+              "name": "Elf",
+              "value": "elf"
+            },
+            {
+              "name": "New Year 2023",
+              "value": "newyear"
+            },
+            {
+              "name": "New Year 2024",
+              "value": "newyear2024"
+            },
+            {
+              "name": "Reindeer",
+              "value": "reindeer"
+            },
+            {
+              "name": "Santa",
+              "value": "santa"
+            },
+            {
+              "name": "Santa's Sack",
+              "value": "santassack"
+            },
+            {
+              "name": "Scarf",
+              "value": "scarf"
+            },
+            {
+              "name": "Valentine - Be Mine",
+              "value": "valentinebemine"
+            },
+            {
+              "name": "Valentine - Cupid",
+              "value": "valentinecupid"
+            },
+            {
+              "name": "Valentine - Party",
+              "value": "valentineparty"
+            },
+            {
+              "name": "Valentine - Smooch",
+              "value": "valentinesmooch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
